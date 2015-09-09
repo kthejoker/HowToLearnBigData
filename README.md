@@ -5,10 +5,16 @@
 ## Documentation
 
 <a href="http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-what-is-emr.html">Amazon EMR</a> - contains good synopses of all the various tools
+<a href="http://hadoopecosystemtable.github.io/">Hadoop Ecosystem</a>
 
 ## Platforms
 
 <a href="https://www.dominodatalab.com/">Domino</a>
+<a href="http://www.amazon.com/Hadoop-Practice-Alex-Holmes/dp/1617292222/ref=pd_sim_14_5?ie=UTF8&refRID=0ASY1WE305KEAFTX33KJ&dpSrc=sims&dpST=_AC_UL320_SR256%2C320_">Hadoop in Practice</a> - Best practical Hadoop book out there
+
+## Career
+
+<a href="http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists">66 interview questions for data scientists</a>
 
 # Engineer
 
@@ -22,6 +28,8 @@
 ## Courses
 
 <a href="http://15418.courses.cs.cmu.edu/spring2015/">Parallel Computing Architecture</a>
+<a href="http://cloudera.com/content/cloudera/en/training/courses/administrator-training.html">Cloudera Administrator Certification</a>
+<a href="https://www.mapr.com/services/mapr-academy/training-videos">MapR Hadoop Training</a>
 
 ##Tools
 
@@ -32,6 +40,8 @@
 ### Tools
 
 <a href="http://deeplearning.net/software/theano/">Theano</a>
+<a href="http://h2o.ai/">H2O</a>
+<a href="https://github.com/h2oai/sparkling-water">Sparkling Water</a> - Spark + H2O
 
 ### Visualization
 
