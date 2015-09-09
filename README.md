@@ -1,5 +1,19 @@
 # HowToLearnBigData
 
+# General
+
+## Help
+
+<a href="http://stackoverflow.com/questions/tagged/bigdata">Big Data on StackOverFlow</a>
+<a href="http://datascience.stackexchange.com/">Data Science Stack Exchange</a>
+
+# Strategist
+
+## Costs
+
+<a href="http://pivotal.io/big-data/hadoop/hadoop-and-economics-of-big-data">Hadoop and the Economics of Big Data</a>
+
+
 # Architect
 
 ## Documentation
@@ -15,6 +29,8 @@
 ## Career
 
 <a href="http://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists">66 interview questions for data scientists</a>
+
+
 
 # Engineer
 
