@@ -22,6 +22,10 @@
 
 ## Data Scientist
 
+### Tools
+
+<a href="http://deeplearning.net/software/theano/">Theano</a>
+
 ### Visualization
 
 <a href="http://www.perceptualedge.com/about.php">Perceptual Edge</a>
